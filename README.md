@@ -21,13 +21,13 @@ After years as a CEO and CTO across multiple GitHub-based organizations, I’m n
 
 ---
 
-## 🚀 Concepts I Work On
+🚀 Concepts I Work On
 
-* Multi AI agent systems and automations
-* Physics-based interactive games and simulations on Steam and beyond
-* Responsive websites and applications for a wide range of industries
-* Mini apps, bots, and games across Telegram and Discord
-* Rapid prototyping of other experimental products and tools
+* Multi-agent AI systems and automations
+* Physics-based interactive games and simulations for Steam and other platforms
+* Responsive websites and applications across a wide range of industries
+* Mini apps, bots, and games for Telegram and Discord
+* Rapid prototyping of experimental products and tools
 
 ---
 
