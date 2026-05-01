@@ -45,7 +45,7 @@ AI vs AI adversarial debate engine where ideas are tested through structured rea
 * A third AI agent evaluates logic and determines the final verdict
 * Outcomes are scored, ranked, and rewarded based on reasoning strength
 
-Explores adversarial AI reasoning, structured evaluation, and incentive-driven idea testing on Solana. Found extremely useful by teachers and students for structured reasoning and argument analysis.
+Explores adversarial AI reasoning, structured evaluation, and incentive-driven idea testing on Base or BNB Chain (TBD). Found extremely useful by teachers and students for structured reasoning and argument analysis.
 
 ### **Metagolf (acquired — actively in development)**
 
